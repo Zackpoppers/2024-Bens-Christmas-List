@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/2024-Bens-Christmas-List/static/css/main.8c52995d.css",
+    "main.js": "/2024-Bens-Christmas-List/static/js/main.af5a0699.js",
+    "static/js/453.da3deca5.chunk.js": "/2024-Bens-Christmas-List/static/js/453.da3deca5.chunk.js",
+    "static/media/men_sleek_stainless_steel_rings_1.jpg": "/2024-Bens-Christmas-List/static/media/men_sleek_stainless_steel_rings_1.7501dd7b8afd274965c4.jpg",
+    "static/media/men_henley_shirts_neutral_tones_1.jpg": "/2024-Bens-Christmas-List/static/media/men_henley_shirts_neutral_tones_1.5574ffe25cb9a48e36b4.jpg",
+    "static/media/men_button-up_shirts_neutral_tones_1.jpg": "/2024-Bens-Christmas-List/static/media/men_button-up_shirts_neutral_tones_1.71153e259db7ed4c02ab.jpg",
+    "static/media/men_neutral_sneakers_leather_1.jpg": "/2024-Bens-Christmas-List/static/media/men_neutral_sneakers_leather_1.cae98cab059fc1833f55.jpg",
+    "static/media/men_khakis_pants_neutral_tones_1.jpg": "/2024-Bens-Christmas-List/static/media/men_khakis_pants_neutral_tones_1.0f6e2ff52674f5f4db34.jpg",
+    "static/media/men_oxford_shirts_neutral_tones_1.jpg": "/2024-Bens-Christmas-List/static/media/men_oxford_shirts_neutral_tones_1.424b2b6dd19d0237a29f.jpg",
+    "static/media/men_silver_chain_jewelry_1.jpg": "/2024-Bens-Christmas-List/static/media/men_silver_chain_jewelry_1.de88cdab0c6563ee33ae.jpg",
+    "static/media/men_cargo_pants_neutral_tones_1.jpg": "/2024-Bens-Christmas-List/static/media/men_cargo_pants_neutral_tones_1.ef063892eec407b0c737.jpg",
+    "static/media/men_dickies_pants_1.jpg": "/2024-Bens-Christmas-List/static/media/men_dickies_pants_1.68f027d1d5f8f810bf27.jpg",
+    "index.html": "/2024-Bens-Christmas-List/index.html",
+    "main.8c52995d.css.map": "/2024-Bens-Christmas-List/static/css/main.8c52995d.css.map",
+    "main.af5a0699.js.map": "/2024-Bens-Christmas-List/static/js/main.af5a0699.js.map",
+    "453.da3deca5.chunk.js.map": "/2024-Bens-Christmas-List/static/js/453.da3deca5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c52995d.css",
+    "static/js/main.af5a0699.js"
+  ]
+}
