@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(180deg, #0f2027, #203a43, #2c5364);
+  color: white;
+}
+
+button {
+  cursor: pointer;
+  padding: 10px 15px;
+  margin: 5px;
+  border: none;
+  background: #1e90ff;
+  color: white;
+  border-radius: 4px;
+}
+
+button:hover {
+  background: #0066cc;
+}
+
+button:active {
+  background: #004c99;
+}
